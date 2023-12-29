@@ -6,10 +6,10 @@
 ## **Ear_Cups.stl**
 
 * Supports: only on holes
-*Infill: 25%
-*Infill type: Gyroid
-*Perimeters: 4/5
-*Top solid layers: 0
+* Infill: 25%
+* Infill type: Gyroid
+* Perimeters: 4/5
+* Top solid layers: 0
 
 ## **Headband.stl**
 
