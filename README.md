@@ -51,5 +51,8 @@
 
 
 * * *
+Thingiverse - https://www.thingiverse.com/thing:6315428
+
+Printables - https://www.printables.com/model/647956-qum-diy-headphones/files
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/basson)
