@@ -1,7 +1,7 @@
 # qym-headphones
 3d prints diy headphones
 
-![image](https://raw.githubusercontent.com/basson/qym-headphones/main/images/photo_3.jpg)
+<img src="https://raw.githubusercontent.com/basson/qym-headphones/main/images/photo_3.jpg" width="400">
 
 ## **Ear_Cups.stl**
 
